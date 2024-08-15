@@ -18,8 +18,8 @@ const Stats = () => {
         delay: 6,
         scrollTrigger: {
           trigger: "#stats",
-          start: " bottom top",
-          end: "center center",
+          start: " center",
+          end: "top top",
           scrub: true,
         },
       }

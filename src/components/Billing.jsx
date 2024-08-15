@@ -19,8 +19,8 @@ const Billing = () => {
         
         scrollTrigger: {
           trigger: "#product",
-          start: " bottom top",
-          end: "center center",
+          start: " center",
+          end: "top top",
 
           scrub: true,
         },

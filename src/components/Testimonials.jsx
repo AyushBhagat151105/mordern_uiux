@@ -20,8 +20,8 @@ const Testimonials = () => {
 
         scrollTrigger: {
           trigger: "#clients",
-          start: " bottom top",
-          end: "center center",
+          start: " center",
+          end: "top top",
 
           scrub: true,
         },

@@ -18,8 +18,8 @@ const CTA = () => {
         delay: 6,
         scrollTrigger: {
           trigger: "#CTA",
-          start: " bottom top",
-          end: "center center",
+          start: " center",
+          end: "top top",
 
           scrub: true,
         },

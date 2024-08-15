@@ -20,8 +20,8 @@ const CardDeal = () => {
 
         scrollTrigger: {
           trigger: "#cardDeal",
-          start: " bottom top",
-          end: "center center",
+          start: " center",
+          end: "top top",
 
           scrub: true,
         },

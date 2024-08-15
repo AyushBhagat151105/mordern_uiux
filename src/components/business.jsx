@@ -41,8 +41,8 @@ const business = () => {
         opacity: 1,
         scrollTrigger: {
           trigger: "#features",
-          start: " bottom top",
-          end: "center center",
+          start: " center",
+          end: "top top",
 
           scrub: true,
         },
