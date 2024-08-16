@@ -21,6 +21,7 @@ const Stats = () => {
           start: " center",
           end: "top top",
           scrub: true,
+          // markers: true,
         },
       }
     );
