@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <nav
       id="nav"
-      className="w-full flex py-6 justify-around items-center navbar"
+      className="w-full flex py-6 justify-around items-center navbar z-50"
     >
       <img src={logo} alt="hoobank" className="w-[124px] h-[32px]" />
 
